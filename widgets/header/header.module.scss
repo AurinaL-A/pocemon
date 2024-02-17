@@ -1,0 +1,10 @@
+.header {
+    box-shadow: 0 4px 16px 0 rgba(1, 28, 64, 0.2);
+    height: 93px;
+	&__row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 0 16px;
+	}
+}
